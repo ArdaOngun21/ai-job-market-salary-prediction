@@ -1,0 +1,6 @@
+Criterion,Linear_Regression,Random_Forest,XGBoost,Selected_Model
+Predictive performance,3.1,4.2,4.7,XGBoost
+Interpretability,4.8,3.6,2.8,Linear Regression
+Robustness,3.2,4.1,4.2,XGBoost
+Cost efficiency,4.8,3.8,3.0,Linear Regression
+Deployment suitability,4.4,4.3,3.5,Random Forest

@@ -1,0 +1,6 @@
+Model,Rank_by_MAE,Rank_by_RMSE,Rank_by_R2,Notes
+Linear Regression,5,5,5,Lowest overall ranking
+Decision Tree Regressor,4,4,4,Moderate nonlinear baseline
+Random Forest Regressor,2,2,2,Strong and stable model
+XGBoost Regressor,1,1,1,Best across all metrics
+SVR,3,3,3,Middle ranking

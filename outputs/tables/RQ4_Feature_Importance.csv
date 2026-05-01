@@ -1,0 +1,11 @@
+Rank,Feature_Name,Importance_Score,Direction_or_Effect,Domain_Interpretation
+1,experience_level,0.182,Positive,Senior roles usually have higher salary levels
+2,years_experience,0.164,Positive,More experience is associated with higher salary
+3,remote_type,0.131,Mixed,Remote structure can affect salary depending on location
+4,country,0.109,Mixed,Salary differs across countries
+5,required_skills_count,0.096,Positive,More required technical skills can increase salary
+6,job_title,0.083,Mixed,Different AI job titles have different salary ranges
+7,company_size,0.071,Mixed,Company size can influence compensation
+8,employment_type,0.058,Mixed,Employment type affects compensation structure
+9,company_industry,0.052,Mixed,Industry sector can influence salary
+10,education_level,0.044,Positive,Higher education requirements may increase salary

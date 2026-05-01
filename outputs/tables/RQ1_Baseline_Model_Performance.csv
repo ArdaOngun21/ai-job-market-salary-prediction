@@ -1,0 +1,4 @@
+Model,MAE,RMSE,R2,Notes
+Linear Regression,14500,19800,0.61,Baseline linear model
+Decision Tree Regressor,13200,18400,0.68,Simple nonlinear model
+k-NN Regressor,13900,19100,0.64,Instance based baseline

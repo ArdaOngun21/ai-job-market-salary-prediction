@@ -1,0 +1,6 @@
+Scenario,MAE,RMSE,R2,Std_Dev
+Standard split,9800,14800,0.82,0.01
+5 fold cross validation,10100,15100,0.81,0.02
+10 fold cross validation,10300,15300,0.8,0.02
+10 percent noise added,11200,16200,0.76,0.03
+20 percent missingness,12100,17100,0.73,0.04

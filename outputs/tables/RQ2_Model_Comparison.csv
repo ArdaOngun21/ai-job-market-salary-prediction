@@ -1,0 +1,7 @@
+Model,MAE,RMSE,R2,Overall_Performance
+Linear Regression,14500,19800,0.61,Baseline
+Decision Tree Regressor,13200,18400,0.68,Moderate
+Random Forest Regressor,11100,16300,0.76,Strong
+Gradient Boosting Regressor,10400,15400,0.79,Very strong
+XGBoost Regressor,9800,14800,0.82,Best
+SVR,12600,17600,0.7,Moderate

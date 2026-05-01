@@ -1,0 +1,6 @@
+Preprocessing_Strategy,MAE,RMSE,R2,Notes
+Raw data,14300,19600,0.62,Minimal cleaning
+Missing value imputation,13600,18800,0.66,Missing values handled
+Encoding and scaling,12400,17600,0.72,Categorical and numerical features processed
+Outlier treatment,11600,16900,0.75,Extreme salary effects reduced
+Full pipeline,10100,15800,0.8,Complete preprocessing workflow
