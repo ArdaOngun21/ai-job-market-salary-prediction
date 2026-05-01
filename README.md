@@ -6,7 +6,7 @@ The main objective is to predict salary based on job, company, location, skill, 
 
 ## Dataset
 
-Dataset source: Kaggle AI and Data Science Job Market Dataset 2020 to 2026 (https://www.kaggle.com/datasets/shree0910/ai-and-data-science-job-market-dataset-20202026utm_source=chatgpt.com)
+Dataset source: Kaggle AI and Data Science Job Market Dataset 2020 to 2026 (https://www.kaggle.com/datasets/shree0910/ai-and-data-science-job-market-dataset-20202026?utm_source=chatgpt.com)
 
 The dataset is not included in this repository. It should be downloaded from Kaggle and placed in the working environment before running the notebooks.
 
