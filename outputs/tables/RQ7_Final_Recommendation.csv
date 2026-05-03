@@ -1,0 +1,5 @@
+Model,Predictive_Performance,Cost_Efficiency,Interpretability,Deployment_Suitability,Robustness,Average_Score
+Linear Regression,5.0,5.0,5.0,5.0,5.0,5.0
+Gradient Boosting,4.604764840861962,4.571138738761941,3.0,3.7,4.152382420430981,4.005657200010977
+Random Forest,3.9974680575942507,3.928575718976076,3.5,4.0,3.9987340287971254,3.8849555610734905
+Extra Trees,1.0,1.0,3.2,3.8,2.4,2.28
